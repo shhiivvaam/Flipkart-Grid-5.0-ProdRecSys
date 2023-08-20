@@ -4,8 +4,8 @@ const nextConfig = {
   swcMinify: true,
   publicRuntimeConfig: {
     // Will be available on both server and client
-    APP_NAME: "COIN_PLANET",
-    API: "http://localhost:5000/api",
+    APP_NAME: "PROD_REC",
+    API: "http://localhost:8000/api",
     PRODUCTION: false,
     DOMAIN: "http://localhost:3000",
   },

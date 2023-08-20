@@ -5,7 +5,7 @@ const nextConfig = {
   publicRuntimeConfig: {
     // Will be available on both server and client
     APP_NAME: "PROD_REC",
-    API: "http://localhost:8000/api",
+    API: "http://localhost:5000/api",
     PRODUCTION: false,
     DOMAIN: "http://localhost:3000",
   },
